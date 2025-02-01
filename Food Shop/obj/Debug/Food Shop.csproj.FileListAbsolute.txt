@@ -1,0 +1,69 @@
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\bin\Debug\Food Shop.exe.config
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\bin\Debug\Food Shop.exe
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\bin\Debug\Food Shop.pdb
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\obj\Debug\Food Shop.csproj.AssemblyReference.cache
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\obj\Debug\Food_Shop.Form1.resources
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\obj\Debug\Food_Shop.Properties.Resources.resources
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\obj\Debug\Food Shop.csproj.GenerateResource.cache
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\obj\Debug\Food Shop.csproj.CoreCompileInputs.cache
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\obj\Debug\Food Shop.exe
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\obj\Debug\Food Shop.pdb
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\bin\Debug\unirest-net.dll
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\obj\Debug\Food_Shop.AccountPreview.resources
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\obj\Debug\Food_Shop.OrderPreview.resources
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\obj\Debug\Food_Shop.ProductPreview.resources
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\obj\Debug\Food Shop.csproj.CopyComplete
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\obj\Debug\Food_Shop.UnfinishedOrderPreview.resources
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\obj\Debug\Food_Shop.AccountInfoForm.resources
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\obj\Debug\Food_Shop.EditAccountForm.resources
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\obj\Debug\Food_Shop.EditProductForm.resources
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\obj\Debug\Food_Shop.LoginForm.resources
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\obj\Debug\Food_Shop.StartForm.resources
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\obj\Debug\Food_Shop.SignUpForm.resources
+C:\Users\Admin\Desktop\Food Shop\Food Shop\obj\Debug\Food Shop.exe
+C:\Users\Admin\Desktop\Food Shop\Food Shop\obj\Debug\Food Shop.pdb
+C:\Users\Admin\Desktop\Food Shop\Food Shop\bin\Debug\Food Shop.exe.config
+C:\Users\Admin\Desktop\Food Shop\Food Shop\bin\Debug\Food Shop.exe
+C:\Users\Admin\Desktop\Food Shop\Food Shop\bin\Debug\Food Shop.pdb
+C:\Users\Admin\Desktop\Food Shop\Food Shop\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Admin\Desktop\Food Shop\Food Shop\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Admin\Desktop\Food Shop\Food Shop\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\Food Shop\Food Shop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Food Shop\Food Shop\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Admin\Desktop\Food Shop\Food Shop\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Admin\Desktop\Food Shop\Food Shop\bin\Debug\unirest-net.dll
+C:\Users\Admin\Desktop\Food Shop\Food Shop\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Admin\Desktop\Food Shop\Food Shop\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\Food Shop\Food Shop\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Admin\Desktop\Food Shop\Food Shop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Food Shop\Food Shop\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Admin\Desktop\Food Shop\Food Shop\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Admin\Desktop\Food Shop\Food Shop\obj\Debug\Food Shop.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Food Shop\Food Shop\obj\Debug\Food_Shop.AccountInfoForm.resources
+C:\Users\Admin\Desktop\Food Shop\Food Shop\obj\Debug\Food_Shop.AccountPreview.resources
+C:\Users\Admin\Desktop\Food Shop\Food Shop\obj\Debug\Food_Shop.EditAccountForm.resources
+C:\Users\Admin\Desktop\Food Shop\Food Shop\obj\Debug\Food_Shop.EditProductForm.resources
+C:\Users\Admin\Desktop\Food Shop\Food Shop\obj\Debug\Food_Shop.Form1.resources
+C:\Users\Admin\Desktop\Food Shop\Food Shop\obj\Debug\Food_Shop.LoginForm.resources
+C:\Users\Admin\Desktop\Food Shop\Food Shop\obj\Debug\Food_Shop.OrderPreview.resources
+C:\Users\Admin\Desktop\Food Shop\Food Shop\obj\Debug\Food_Shop.ProductPreview.resources
+C:\Users\Admin\Desktop\Food Shop\Food Shop\obj\Debug\Food_Shop.Properties.Resources.resources
+C:\Users\Admin\Desktop\Food Shop\Food Shop\obj\Debug\Food_Shop.SignUpForm.resources
+C:\Users\Admin\Desktop\Food Shop\Food Shop\obj\Debug\Food_Shop.StartForm.resources
+C:\Users\Admin\Desktop\Food Shop\Food Shop\obj\Debug\Food_Shop.UnfinishedOrderPreview.resources
+C:\Users\Admin\Desktop\Food Shop\Food Shop\obj\Debug\Food Shop.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Food Shop\Food Shop\obj\Debug\Food Shop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Food Shop\Food Shop\obj\Debug\Food Shop.csproj.CopyComplete
+C:\Users\Ugnius\Desktop\Food Shop\Food Shop\obj\Debug\Food_Shop.AddProductForm.resources
